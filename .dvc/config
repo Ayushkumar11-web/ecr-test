@@ -1,0 +1,4 @@
+[core]
+    remote = s3remote
+['remote "s3remote"']
+    url = s3://ayush-ecr-dvc-2026-666426926519/dvc-storage
