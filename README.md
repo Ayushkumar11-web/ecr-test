@@ -148,7 +148,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Ayush Kumar - [ayush](mailto:ayush1106@gmail.com)
+Ayush Kumar - [ayush](mailto:ayush1106singh@gmail.com)
 
 
 ## Acknowledgements
